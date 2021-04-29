@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Cyril Marcus" src="src/img/veh.png" width="300" />
+    <img alt="Cyril Marcus" src="src/img/veh.png" width="700" />
   </a>
 </p>
 <h1 align="center">
